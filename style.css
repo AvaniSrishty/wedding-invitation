@@ -1,0 +1,14 @@
+.bgimg {
+    background-image: url("g&b.jpg")
+}
+.bgimg2 {background-image: url("f2.jpg")}
+
+.bgimg, .bgimg2 {
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+  }
+
+  body,h1,h2{font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+p {line-height: 2}
